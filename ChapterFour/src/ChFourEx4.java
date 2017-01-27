@@ -5,7 +5,8 @@ public class ChFourEx4
 {
     int quantity,perOff,userInput;
     final double prod = 99;
-    double total;
+    double grossTotal;
+    double netTotal;
 
     public int getQuantity()
     {
@@ -38,31 +39,36 @@ public class ChFourEx4
     {
         if (userInput >= 10 || userInput >= 19)
         {
-            total =  (userInput * prod ) / .20;
+            grossTotal =  (userInput * prod );
+            netTotal = grossTotal - (grossTotal * .20);
 
-            System.out.printf("The Current total is: %s",userInput);
-            System.out.printf("The Current total is: $%,.2f", total);
+            System.out.printf("The Current grossTotal is: %s\n",userInput);
+            System.out.printf("The Final grossTotal is: $%,.2f", netTotal);
         }
         else if (userInput >= 20 || userInput >= 49)
         {
-            total =  (userInput * prod ) / .30;
+            grossTotal =  (userInput * prod );
+            netTotal = grossTotal - (grossTotal * .30);
 
-            System.out.printf("The Current total is: %s",userInput);
-            System.out.printf("The Current total is: $%,.2f", total);
+
+            System.out.printf("The Current grossTotal is: %s\n",userInput);
+            System.out.printf("The Final grossTotal is: $%,.2f", netTotal);
         }
         else if (userInput >= 50 || userInput >= 99)
         {
-            total =  (userInput * prod ) / .40;
+            grossTotal =  (userInput * prod);
+            netTotal = grossTotal - (grossTotal * .40);
 
-            System.out.printf("The Current total is: %s",userInput);
-            System.out.printf("The Current total is: $%,.2f", total);
+            System.out.printf("The Current grossTotal is: %s\n",userInput);
+            System.out.printf("The Final grossTotal is: $%,.2f", netTotal);
         }
         else if (userInput >= 100 )
         {
-            total =  (userInput * prod ) / .50;
+            grossTotal =  (userInput * prod );
+            netTotal = grossTotal - (grossTotal * .50);
 
-            System.out.printf("The Current total is: %s",userInput);
-            System.out.printf("The Current total is: $%,.2f", total);
+            System.out.printf("The Current grossTotal is: %s",userInput);
+            System.out.printf("The Final grossTotal is: $%,.2f", netTotal);
         }
 
     }

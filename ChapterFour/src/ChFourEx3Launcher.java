@@ -19,6 +19,8 @@ public class ChFourEx3Launcher
         //grabs the 3 entered test scored and averages them by the amount of test scores there are
         avg.setAverage((calc[0].getTestScore() + calc[1].getTestScore() + calc[2].getTestScore())/3);
         //displays the final outcome
+
+
         if (avg.getAverage() >= 90.00)
         {
             System.out.printf("A: %,.2f", avg.getAverage());

@@ -11,18 +11,13 @@ public class ChFourEx5Launcher
         ChFourEx5 xin = new ChFourEx5();
 
         System.out.print("Enter in the current Balance: ");
-        xin.setCurrentBalance(reader.nextDouble());
+        double bal = reader.nextDouble();
         System.out.print("Enter in the amount of checks used this month: ");
-        xin.setChecksUsed(reader.nextInt());
+        ChFourEx5.clac(bal, reader.nextInt());
 
-        if (xin.getCurrentBalance() > 400)
-        {
-            xin.getChekBal(+ 15);
-        }
-        else
-        {
-            xin.clac();
-        }
+
+
+
 
     }
 }

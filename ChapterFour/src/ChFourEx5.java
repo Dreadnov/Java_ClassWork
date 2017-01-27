@@ -3,71 +3,44 @@
  */
 public class ChFourEx5
 {
-    final double charge = 10;
-    int checksUsed;
-    double chekBal;
-    double currentBalance, chargeBalance;
-    final double extraCharge = 400;
 
-    public double getCurrentBalance()
-    {
-        return currentBalance;
-    }
-    public void setCurrentBalance(double currentBalance)
-    {
-        this.currentBalance = currentBalance;
-    }
 
-    public double getCharge()
-    {
-        return charge;
-    }
-    public int getChecksUsed()
-    {
-        return checksUsed;
-    }
 
-    public void setChecksUsed(int checksUsed)
+    public static void clac(double Balance, int ChecksUsed )
     {
-        this.checksUsed = checksUsed;
-    }
-    public double getExtraCharge()
-    {
-        return extraCharge;
-    }
 
-    public double getChekBal(int i)
-    {
-        return chekBal;
-    }
-    public void setChekBal(double chekBal)
-    {
-        this.chekBal = chekBal;
-    }
+        int perMonth = 10;
+        int underCharge = 15;
+        int checksUsed = ChecksUsed;
+        double balance = Balance;
+        double charge = 0;
 
-    public void clac()
-    {
-            if (checksUsed > 20)
-            {
-                chekBal = charge * .10;
-                System.out.printf("The total bank fees this month is: $%,.2f", chargeBalance);
-            }
-            if (checksUsed >= 20 || checksUsed >= 39)
-            {
-                chekBal = charge * .08;
-                System.out.printf("The total bank fees this month is: $%,.2f",chargeBalance);
-            }
-            if (checksUsed >= 40 || checksUsed <= 59)
-            {
-                chekBal = charge * .06;
-                System.out.printf("The total bank fees this month is: $%,.2f",chargeBalance);
-            }
-            if (checksUsed >= 60)
-            {
-                chekBal = charge * .10;
-                System.out.printf("The total bank fees this month is: $%,.2f",chargeBalance);
-            }
 
+        charge += (double)perMonth;
+
+
+        if (balance < 400)
+        {
+            charge += (double)underCharge;
+        }
+        
+        if (checksUsed >= 60)
+        {
+            charge += .04 * checksUsed;
+        }
+        else if (checksUsed >= 40)
+        {
+            charge += .06 * checksUsed;
+        }
+        else if (checksUsed >= 20 )
+        {
+            charge += .08 * checksUsed;
+        }
+        else
+        {
+            charge += .10 * checksUsed;
+        }
+        System.out.print("Service Fee: "  + String.format("%,.2f",charge) );
     }
 
 
