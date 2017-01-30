@@ -10,6 +10,7 @@ public class ChFourEx5Launcher
         Scanner reader = new Scanner(System.in);
         ChFourEx5 xin = new ChFourEx5();
 
+        //asks the user for the following information
         System.out.print("Enter in the current Balance: ");
         double bal = reader.nextDouble();
         System.out.print("Enter in the amount of checks used this month: ");

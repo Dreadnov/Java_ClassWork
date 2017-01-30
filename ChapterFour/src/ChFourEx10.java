@@ -7,7 +7,7 @@ import java.text.MessageFormat;
 public class ChFourEx10
 {
     private static double temp = Double.parseDouble(JOptionPane.showInputDialog(null, "Enter in the current temp"));
-
+        //displays the temp and if its freeing or boiling
     public static void Dis()
     {
       String table = String.format(MessageFormat.format("Ethyl : Freezing({0}) Boiling({1})", isEthylFreezing(), isEthylBoiling()));
@@ -17,7 +17,7 @@ public class ChFourEx10
     }
 
 
-
+    // checks if the temp is within saiod range and will return the value of true or false depending on user input
     private static boolean isEthylFreezing()
     {
         if (temp <= -173) return true;else return false;

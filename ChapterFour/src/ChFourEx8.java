@@ -5,7 +5,9 @@ import java.util.Arrays;
  * Created by Matthew on 1/25/2017.
  */
 public class ChFourEx8 implements Comparable<ChFourEx8>
+//using implemented comparable i can now compare arrays
 {
+    //local variable
     String name;
     int time;
 
@@ -34,6 +36,7 @@ public class ChFourEx8 implements Comparable<ChFourEx8>
         this.time = time;
     }
 
+    //clacs the position of the runners in the array
     public static void recivRunner()
     {
         ChFourEx8[] runner = genRunner();
@@ -42,6 +45,7 @@ public class ChFourEx8 implements Comparable<ChFourEx8>
                          "\n2nd: " + runner[1].name +
                          "\n3rd: " + runner[2].name);
     }
+    //calculates the users input and will display the
     private static ChFourEx8[] genRunner()
     {    Scanner reaedr = new Scanner(System.in);
          ChFourEx8[] Dis = new ChFourEx8[3];
@@ -53,7 +57,7 @@ public class ChFourEx8 implements Comparable<ChFourEx8>
         }
         return Dis;
     }
-
+        // makes class comparable by time
     @Override
     public int compareTo(ChFourEx8 runner){
         return this.time - runner.time;

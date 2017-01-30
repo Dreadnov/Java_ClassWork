@@ -11,15 +11,15 @@ public class ChFourEx7
 
         public static void Dis()
         {
-
+            //enables scanner
             Scanner reader = new Scanner(System.in);
+            //asks the user for the requested questions
             System.out.print("Enter in Calories: ");
             int cal = reader.nextInt();
             System.out.print("Enter in Fat: ");
             StoreInput(cal,reader.nextInt());
-
             double cFF = CalFromFat();
-
+             //displays it the outcome is within the parameters
              if (!(cFF > calories))
              {
                  if (cFF < (double)(calories * .3))
@@ -33,20 +33,19 @@ public class ChFourEx7
                              + "\nThis food is high on fat");
                  }
              }
+             //else this will display
             else
              {
                 System.out.print("Invalid Input");
              }
-
-
         }
-
+    //inputs the score to be calculated
         public static void StoreInput(int Calories, int FatGram)
         {
             calories = Calories;
             fatGram = FatGram;
         }
-
+        //returns the calculation
         public static double CalFromFat()
         {
             return (fatGram * 9);
