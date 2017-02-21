@@ -26,7 +26,7 @@ public class library
 
     public library(Book book/*, String name*/)
     {
-        book = new Book(book);
+        this.book = new Book(book);
         //this.name = name;
     }
 
