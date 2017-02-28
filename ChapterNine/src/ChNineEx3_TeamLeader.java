@@ -3,10 +3,12 @@
  */
 public class ChNineEx3_TeamLeader extends ChNineEx1_ProductionWorker
 {
+    //fields
     double monthlyBonusAmount;
     int requiredTraining;
     int attendedTraining;
 
+    //getters and setters for their respected fields
     public double getMonthlyBonusAmount()
     {
         return monthlyBonusAmount;
@@ -15,7 +17,6 @@ public class ChNineEx3_TeamLeader extends ChNineEx1_ProductionWorker
     {
         this.monthlyBonusAmount = monthlyBonusAmount;
     }
-
     public int getRequiredTraining()
     {
         return requiredTraining;
@@ -24,7 +25,6 @@ public class ChNineEx3_TeamLeader extends ChNineEx1_ProductionWorker
     {
         this.requiredTraining = requiredTraining;
     }
-
     public int getAttendedTraining()
     {
         return attendedTraining;
@@ -34,6 +34,7 @@ public class ChNineEx3_TeamLeader extends ChNineEx1_ProductionWorker
         this.attendedTraining = attendedTraining;
     }
 
+    //args-constructor that will call the ChNineEx1_ProductionWorker super and then also use the shift,hourlyPayRate,monthlyBonusAmount,requiredTraining and attendedTraining
     public ChNineEx3_TeamLeader(String name, String number, String startDate, int shift, double hourlyPayRate, double monthlyBonusAmount, int requiredTraining, int attendedTraining)
     {
         super(name, number, startDate, shift, hourlyPayRate);
@@ -42,6 +43,7 @@ public class ChNineEx3_TeamLeader extends ChNineEx1_ProductionWorker
         this.attendedTraining = attendedTraining;
     }
 
+    // overrides the final outcome and displays as the new format
     @Override
     public String toString()
     {

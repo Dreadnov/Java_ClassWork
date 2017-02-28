@@ -3,17 +3,16 @@
  */
 public class ChNineEx4_GradeActivity
 {
+    //fileds
     private double score;
+    //default constructor
+    public ChNineEx4_GradeActivity() {}
 
-    public ChNineEx4_GradeActivity()
-    {
-
-    }
-
+    //Getters and setters for their respected fields
     public void setScore(double s) { score = s;}
-
     public double getScore(){ return score; }
 
+    //GetGrade uses if else statements that check the incoming score to the parameters below
     public char getGrade()
     {
         char letterGrade;

@@ -3,12 +3,14 @@
  */
 public class ChNineEx4_Essay extends ChNineEx4_GradeActivity
 {
+    //fields
     private double grammar;
     private double spelling;
     private double correctLength;
     private double content;
     private double total;
 
+    //Getters and setters for their respected fields
     public double getGrammar()
     {
         return grammar;
@@ -17,7 +19,6 @@ public class ChNineEx4_Essay extends ChNineEx4_GradeActivity
     {
         this.grammar = grammar;
     }
-
     public double getSpelling()
     {
         return spelling;
@@ -26,7 +27,6 @@ public class ChNineEx4_Essay extends ChNineEx4_GradeActivity
     {
         this.spelling = spelling;
     }
-
     public double getCorrectLength()
     {
         return correctLength;
@@ -35,7 +35,6 @@ public class ChNineEx4_Essay extends ChNineEx4_GradeActivity
     {
         this.correctLength = correctLength;
     }
-
     public double getContent()
     {
         return content;
@@ -45,6 +44,7 @@ public class ChNineEx4_Essay extends ChNineEx4_GradeActivity
         this.content = content;
     }
 
+    // arg-constructor that uses the super call and also uses grammar,spelling ,correctLength and  content
     public ChNineEx4_Essay(double grammar, double spelling, double correctLength, double content)
     {
         super();

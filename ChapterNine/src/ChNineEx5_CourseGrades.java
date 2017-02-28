@@ -5,8 +5,10 @@ import java.util.Arrays;
  */
 public class ChNineEx5_CourseGrades implements ChNineEx6_Analyzable_Interface
 {
+    // an array that is initialized to  ChNineEx4_GradeActivity
     ChNineEx4_GradeActivity[] grades = new ChNineEx4_GradeActivity[4];
 
+    //A constructor that passes the objects
     public ChNineEx5_CourseGrades(ChNineEx5_LabActivity labActivity,
                                   ChNineEx5_PassFailExam passFailExam,
                                   ChNineEx4_Essay essay,
@@ -18,6 +20,7 @@ public class ChNineEx5_CourseGrades implements ChNineEx6_Analyzable_Interface
         this.setFinalExam(finalExam);
     }
 
+    // a method that gets the average of the objects and then returns
     public double getAverage()
     {
         double avg = 0;
@@ -30,6 +33,7 @@ public class ChNineEx5_CourseGrades implements ChNineEx6_Analyzable_Interface
         return avg;
     }
 
+    //Gets the highest value in the array and then displays it in the toString
     @Override
     public ChNineEx4_GradeActivity getHighest()
     {
@@ -46,6 +50,7 @@ public class ChNineEx5_CourseGrades implements ChNineEx6_Analyzable_Interface
         return grades[holder];
     }
 
+    //Gets the lowest value in the array and then displays it in the toString
     @Override
     public ChNineEx4_GradeActivity getLowest()
     {
@@ -62,12 +67,17 @@ public class ChNineEx5_CourseGrades implements ChNineEx6_Analyzable_Interface
 
         return grades[holder];
     }
+
+    //default constructor
     ChNineEx5_CourseGrades(){}
+
+    //sets the array value to the corresponding object
     public void setLab(ChNineEx4_GradeActivity labActivity) { grades[0] = labActivity; }
     public void setPassFailExam(ChNineEx5_PassFailExam passFailExam){ grades[1] = passFailExam;}
     public void setEssay(ChNineEx4_Essay essay){grades[2] = essay;}
     public void setFinalExam(ChNineEx5_FinalExam finalExam){ grades[3] = finalExam;}
 
+    //configures the toString to hte specified parameters
     @Override
     public String toString()
     {
