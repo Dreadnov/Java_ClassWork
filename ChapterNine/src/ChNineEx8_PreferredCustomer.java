@@ -3,16 +3,19 @@
  */
 public class ChNineEx8_PreferredCustomer extends ChNineEx7_Customer
 {
+    //fields
     private double customerSpent;
     private double discountPercent;
 
 
+    // constructor that passes the supers constructor and sets the setCustomerSpent
     public ChNineEx8_PreferredCustomer(String name, String address, String phoneNumber, int customerNumber, boolean mailingList, double customerSpent)
     {
         super(name, address, phoneNumber, customerNumber, mailingList);
         this.customerSpent = customerSpent;
         setCustomerSpent(customerSpent);
     }
+    //gets and sets the getDiscountPercent field
     public double getDiscountPercent()
     {
         return discountPercent;
@@ -27,6 +30,7 @@ public class ChNineEx8_PreferredCustomer extends ChNineEx7_Customer
         return customerSpent;
     }
 
+    //a method that sets the users discount percent
     public void setCustomerSpent(double customerSpent)
     {
         this.customerSpent = customerSpent;
@@ -37,7 +41,7 @@ public class ChNineEx8_PreferredCustomer extends ChNineEx7_Customer
     }
 
 
-
+    //specifies the output for the output
     @Override
     public String toString()
     {

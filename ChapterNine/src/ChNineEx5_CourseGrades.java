@@ -19,7 +19,6 @@ public class ChNineEx5_CourseGrades implements ChNineEx6_Analyzable_Interface
         this.setEssay(essay);
         this.setFinalExam(finalExam);
     }
-
     // a method that gets the average of the objects and then returns
     public double getAverage()
     {
@@ -32,7 +31,6 @@ public class ChNineEx5_CourseGrades implements ChNineEx6_Analyzable_Interface
 
         return avg;
     }
-
     //Gets the highest value in the array and then displays it in the toString
     @Override
     public ChNineEx4_GradeActivity getHighest()
@@ -77,7 +75,7 @@ public class ChNineEx5_CourseGrades implements ChNineEx6_Analyzable_Interface
     public void setEssay(ChNineEx4_Essay essay){grades[2] = essay;}
     public void setFinalExam(ChNineEx5_FinalExam finalExam){ grades[3] = finalExam;}
 
-    //configures the toString to hte specified parameters
+    //configures the toString to hte specified parameters based on the position of their current array placement
     @Override
     public String toString()
     {
