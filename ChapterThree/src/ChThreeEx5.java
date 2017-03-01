@@ -31,6 +31,13 @@ public class ChThreeEx5
     }
     public double setPrice(double price)
     {
+        try{
+            this.price = price;
+        }
+        catch ()
+        {
+            e.printStackTrace();
+        }
         this.price = price;
         return price;
     }
