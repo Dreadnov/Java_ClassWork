@@ -3,10 +3,12 @@
  */
 public class ChTenEx3
 {
+    //fields
     private String description;
     private int unitsOnHand;
     private double price;
 
+    //getters and setters for the respected fields
     public String getDescription()
     {
         return description;
@@ -15,7 +17,6 @@ public class ChTenEx3
     {
         this.description = description;
     }
-
     public int getUnitsOnHand()
     {
         return unitsOnHand;
@@ -24,11 +25,11 @@ public class ChTenEx3
     {
         this.unitsOnHand = unitsOnHand;
     }
-
     public double getPrice()
     {
         return price;
     }
+    //try and ccatech to check if the following fields are incorrect and throws the exception
     public double setPrice(double price)
     {
         try{

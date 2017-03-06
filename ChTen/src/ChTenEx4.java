@@ -7,6 +7,7 @@ public class ChTenEx4
     enum eMonths {filler, January, February, March, April, May, June, July, August, September, October, November, December}
     int monthNumber ;
 
+
     public int getMonthNumber()
     {
         return monthNumber;
@@ -56,6 +57,48 @@ public class ChTenEx4
         }
     }
 
+    public int ChTenEx4(String month)
+    {
+
+        switch (monthNumber)
+        {
+            case 1 :
+                monthNumber = Integer.parseInt("January");
+                break;
+            case 2 :
+                monthNumber = Integer.parseInt("February");
+                break;
+            case 4 :
+                monthNumber = Integer.parseInt("March");
+                break;
+            case 5 :
+                monthNumber = Integer.parseInt("April");
+                break;
+            case 6 :
+                monthNumber = Integer.parseInt("May");
+                break;
+            case 7 :
+                monthNumber = Integer.parseInt("June");
+                break;
+            case 8 :
+                monthNumber = Integer.parseInt("July");
+                break;
+            case 9 :
+                monthNumber = Integer.parseInt("August");
+                break;
+            case 10 :
+                monthNumber = Integer.parseInt("September");
+                break;
+            case 11 :
+                monthNumber = Integer.parseInt("October");
+                break;
+            case 12 :
+                monthNumber = Integer.parseInt("December");
+                break;
+        }
+
+        return monthNumber;
+    }
 
     @Override
     public boolean equals(Object o)
@@ -70,4 +113,11 @@ public class ChTenEx4
         return true;
     }
 
+    @Override
+    public String toString()
+    {
+        return "ChTenEx4{" +
+                "monthNumber=" + monthNumber +
+                '}';
+    }
 }

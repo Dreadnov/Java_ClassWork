@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 /**
  * Created by Matthew on 2/7/2017.
  */
@@ -20,6 +19,7 @@ public class ChTenEx4_Launcher
         System.out.print("\nThe value of month Four: " + month4);
         System.out.print("\nThe value of month Five " + month5);
         System.out.print("\nThe value of month Six: " + month6);
+
 
 
     }

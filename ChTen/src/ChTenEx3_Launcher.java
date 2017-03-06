@@ -8,12 +8,13 @@ public class ChTenEx3_Launcher
     public static void main(String[] args)
     {
       ChTenEx3 Cloths = new ChTenEx3();
+        //fields
         int un1,un2,un3;
         double p1,p2,p3;
 
 
 
-
+        //output for the following setters and getters
         System.out.println("Description\t\t\t\t\t" + "Units On Hand\t\t" + "Price");
         System.out.println("------------------------------------------------------------------");
         Cloths.setDescription("Item #1\t\tJacket\t\t\t\t%d\t\t\t%2.2f\n");
