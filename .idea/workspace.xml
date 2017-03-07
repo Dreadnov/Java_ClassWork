@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a10fa5a-68a9-4a49-a344-ee86e5e779be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ChTen/src/ChTenEx5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ChTen/src/ChTenEx5_Launcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChTen/out/production/ChTen/ChTenEx4.class" afterPath="$PROJECT_DIR$/ChTen/out/production/ChTen/ChTenEx4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChTen/out/production/ChTen/ChTenEx4_Launcher.class" afterPath="$PROJECT_DIR$/ChTen/out/production/ChTen/ChTenEx4_Launcher.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChTen/src/ChTenEx4.java" afterPath="$PROJECT_DIR$/ChTen/src/ChTenEx4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChTen/src/ChTenEx4_Launcher.java" afterPath="$PROJECT_DIR$/ChTen/src/ChTenEx4_Launcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java" afterPath="$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChTen/src/ChTenEx5_Invalid_HourlyPayRate.java" afterPath="$PROJECT_DIR$/ChTen/src/ChTenEx5_Invalid_HourlyPayRate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.form" afterPath="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.java" afterPath="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChTen/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ChTen/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChEleven/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ChEleven/.idea/workspace.xml" />
     </list>
     <ignored path="Idea Projects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,184 +32,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ChThreeEx4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4.java">
+      <file leaf-file-name="ChSevenEx3_ChargeAccountValidation_Launcher.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.08047337" vertical-offset="0" max-vertical-offset="845">
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
               <folding>
-                <element signature="e#181#182#0" expanded="false" />
-                <element signature="e#214#215#0" expanded="false" />
-                <element signature="e#269#270#0" expanded="false" />
-                <element signature="e#313#314#0" expanded="false" />
-                <element signature="e#351#352#0" expanded="false" />
-                <element signature="e#381#382#0" expanded="false" />
-                <element signature="e#430#431#0" expanded="false" />
-                <element signature="e#468#469#0" expanded="false" />
-                <element signature="e#505#506#0" expanded="false" />
-                <element signature="e#534#535#0" expanded="false" />
-                <element signature="e#581#582#0" expanded="false" />
-                <element signature="e#617#618#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChThreeEx5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.24" vertical-offset="0" max-vertical-offset="629">
-              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-              <folding>
-                <element signature="e#197#198#0" expanded="false" />
-                <element signature="e#231#232#0" expanded="false" />
-                <element signature="e#288#289#0" expanded="false" />
-                <element signature="e#334#335#0" expanded="false" />
-                <element signature="e#373#374#0" expanded="false" />
-                <element signature="e#407#408#0" expanded="false" />
-                <element signature="e#461#462#0" expanded="false" />
-                <element signature="e#507#508#0" expanded="false" />
-                <element signature="e#543#544#0" expanded="false" />
-                <element signature="e#571#572#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChSixEx6Launcher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx6Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="527">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChSixEx6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1054">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#209#210#0" expanded="false" />
-                <element signature="e#236#237#0" expanded="false" />
-                <element signature="e#279#280#0" expanded="false" />
-                <element signature="e#311#312#0" expanded="false" />
-                <element signature="e#350#351#0" expanded="false" />
-                <element signature="e#381#382#0" expanded="false" />
-                <element signature="e#432#433#0" expanded="false" />
-                <element signature="e#472#473#0" expanded="false" />
-                <element signature="e#513#514#0" expanded="false" />
-                <element signature="e#546#547#0" expanded="false" />
-                <element signature="e#601#602#0" expanded="false" />
-                <element signature="e#645#646#0" expanded="false" />
-                <element signature="e#681#682#0" expanded="false" />
-                <element signature="e#712#713#0" expanded="false" />
-                <element signature="e#760#761#0" expanded="false" />
-                <element signature="e#800#801#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChThreeEx5Launcher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="845">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChThreeEx6Launcher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx6Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.68" vertical-offset="0" max-vertical-offset="612">
-              <caret line="26" column="114" selection-start-line="8" selection-start-column="8" selection-end-line="26" selection-end-column="114" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChThreeEx6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.92" vertical-offset="0" max-vertical-offset="459">
-              <caret line="43" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
-              <folding>
-                <element signature="e#172#173#0" expanded="false" />
-                <element signature="e#203#204#0" expanded="false" />
-                <element signature="e#296#297#0" expanded="false" />
-                <element signature="e#336#337#0" expanded="false" />
-                <element signature="e#375#376#0" expanded="false" />
-                <element signature="e#406#407#0" expanded="false" />
-                <element signature="e#457#458#0" expanded="false" />
-                <element signature="e#497#498#0" expanded="false" />
-                <element signature="e#541#542#0" expanded="false" />
-                <element signature="e#577#578#0" expanded="false" />
-                <element signature="e#638#639#0" expanded="false" />
-                <element signature="e#688#689#0" expanded="false" />
-                <element signature="e#730#731#0" expanded="false" />
-                <element signature="e#764#765#0" expanded="false" />
-                <element signature="e#821#822#0" expanded="false" />
-                <element signature="e#867#868#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChTenEx3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#195#196#0" expanded="false" />
-                <element signature="e#229#230#0" expanded="false" />
-                <element signature="e#286#287#0" expanded="false" />
-                <element signature="e#332#333#0" expanded="false" />
-                <element signature="e#371#372#0" expanded="false" />
-                <element signature="e#405#406#0" expanded="false" />
-                <element signature="e#459#460#0" expanded="false" />
-                <element signature="e#505#506#0" expanded="false" />
-                <element signature="e#541#542#0" expanded="false" />
-                <element signature="e#569#570#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChSixEx5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1649">
-              <caret line="69" column="21" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="21" />
-              <folding>
-                <element signature="e#251#252#0" expanded="false" />
-                <element signature="e#314#315#0" expanded="false" />
-                <element signature="e#353#354#0" expanded="false" />
-                <element signature="e#387#388#0" expanded="false" />
-                <element signature="e#511#512#0" expanded="false" />
-                <element signature="e#547#548#0" expanded="false" />
-                <element signature="e#2365#2366#0" expanded="false" />
-                <element signature="e#2427#2428#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChTenEx4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2091">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#294#295#0" expanded="false" />
-                <element signature="e#328#329#0" expanded="false" />
-                <element signature="e#382#383#0" expanded="false" />
-                <element signature="e#428#429#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -228,6 +55,8 @@
         <option value="$PROJECT_DIR$/ChapterThree/src/ChThreeEx5.java" />
         <option value="$PROJECT_DIR$/ChTen/src/ChTenEx3.java" />
         <option value="$PROJECT_DIR$/ChTen/src/ChTenEx4.java" />
+        <option value="$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java" />
+        <option value="$PROJECT_DIR$/ChTen/src/ChTenEx5_Invalid_HourlyPayRate.java" />
       </list>
     </option>
   </component>
@@ -235,8 +64,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="64" />
+    <option name="y" value="268" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -265,7 +94,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -294,7 +123,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ChapterThree" />
+              <option name="myItemId" value="ChTen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -308,7 +137,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ChapterThree" />
+              <option name="myItemId" value="ChTen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -318,7 +147,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -594,14 +423,15 @@
       <workItem from="1488382549548" duration="1878000" />
       <workItem from="1488460927429" duration="851000" />
       <workItem from="1488462372562" duration="2515000" />
+      <workItem from="1488900785032" duration="731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5433000" />
+    <option name="totallyTimeSpent" value="6164000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="64" y="268" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -616,7 +446,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5565032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15778251" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -657,125 +487,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#181#182#0" expanded="false" />
-            <element signature="e#214#215#0" expanded="false" />
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#313#314#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#430#431#0" expanded="false" />
-            <element signature="e#468#469#0" expanded="false" />
-            <element signature="e#505#506#0" expanded="false" />
-            <element signature="e#534#535#0" expanded="false" />
-            <element signature="e#581#582#0" expanded="false" />
-            <element signature="e#617#618#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#197#198#0" expanded="false" />
-            <element signature="e#231#232#0" expanded="false" />
-            <element signature="e#288#289#0" expanded="false" />
-            <element signature="e#334#335#0" expanded="false" />
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#407#408#0" expanded="false" />
-            <element signature="e#461#462#0" expanded="false" />
-            <element signature="e#507#508#0" expanded="false" />
-            <element signature="e#543#544#0" expanded="false" />
-            <element signature="e#571#572#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#195#196#0" expanded="false" />
-            <element signature="e#229#230#0" expanded="false" />
-            <element signature="e#286#287#0" expanded="false" />
-            <element signature="e#332#333#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#405#406#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="false" />
-            <element signature="e#505#506#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
-            <element signature="e#569#570#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1649">
-          <caret line="69" column="21" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="21" />
-          <folding>
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#314#315#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
-            <element signature="e#387#388#0" expanded="false" />
-            <element signature="e#511#512#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#2365#2366#0" expanded="false" />
-            <element signature="e#2427#2428#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2091">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#382#383#0" expanded="false" />
-            <element signature="e#428#429#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#181#182#0" expanded="false" />
-            <element signature="e#214#215#0" expanded="false" />
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#313#314#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#430#431#0" expanded="false" />
-            <element signature="e#468#469#0" expanded="false" />
-            <element signature="e#505#506#0" expanded="false" />
-            <element signature="e#534#535#0" expanded="false" />
-            <element signature="e#581#582#0" expanded="false" />
-            <element signature="e#617#618#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,18 +495,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="629">
           <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-          <folding>
-            <element signature="e#197#198#0" expanded="false" />
-            <element signature="e#231#232#0" expanded="false" />
-            <element signature="e#288#289#0" expanded="false" />
-            <element signature="e#334#335#0" expanded="false" />
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#407#408#0" expanded="false" />
-            <element signature="e#461#462#0" expanded="false" />
-            <element signature="e#507#508#0" expanded="false" />
-            <element signature="e#543#544#0" expanded="false" />
-            <element signature="e#571#572#0" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx6Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx6Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="612">
+          <caret line="26" column="114" selection-start-line="8" selection-start-column="8" selection-end-line="26" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="459">
+          <caret line="43" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1649">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2091">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -810,117 +591,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#195#196#0" expanded="false" />
-            <element signature="e#229#230#0" expanded="false" />
-            <element signature="e#286#287#0" expanded="false" />
-            <element signature="e#332#333#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#405#406#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="false" />
-            <element signature="e#505#506#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
-            <element signature="e#569#570#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#314#315#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
-            <element signature="e#387#388#0" expanded="false" />
-            <element signature="e#511#512#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#2365#2366#0" expanded="false" />
-            <element signature="e#2427#2428#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#382#383#0" expanded="false" />
-            <element signature="e#428#429#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#181#182#0" expanded="false" />
-            <element signature="e#214#215#0" expanded="false" />
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#313#314#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#430#431#0" expanded="false" />
-            <element signature="e#468#469#0" expanded="false" />
-            <element signature="e#505#506#0" expanded="false" />
-            <element signature="e#534#535#0" expanded="false" />
-            <element signature="e#581#582#0" expanded="false" />
-            <element signature="e#617#618#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#382#383#0" expanded="false" />
-            <element signature="e#428#429#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#195#196#0" expanded="false" />
-            <element signature="e#229#230#0" expanded="false" />
-            <element signature="e#286#287#0" expanded="false" />
-            <element signature="e#332#333#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#405#406#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="false" />
-            <element signature="e#505#506#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
-            <element signature="e#569#570#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -928,16 +599,188 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1649">
           <caret line="69" column="21" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="21" />
-          <folding>
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#314#315#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
-            <element signature="e#387#388#0" expanded="false" />
-            <element signature="e#511#512#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#2365#2366#0" expanded="false" />
-            <element signature="e#2427#2428#0" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2091">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="629">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1649">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="459">
+          <caret line="43" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx6Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53705955" vertical-offset="0" max-vertical-offset="823">
+          <caret line="26" column="114" selection-start-line="8" selection-start-column="8" selection-end-line="26" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx5_Invalid_HourlyPayRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2272175" vertical-offset="0" max-vertical-offset="823">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx5_Invalid_Id.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx5_Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChTen/src/ChTenEx6_FieldArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.06196841" vertical-offset="51" max-vertical-offset="1377">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterSeven/src/ChSevenEx4_LargerThanN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="871">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -949,88 +792,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterSix/src/ChSixEx6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#209#210#0" expanded="false" />
-            <element signature="e#236#237#0" expanded="false" />
-            <element signature="e#279#280#0" expanded="false" />
-            <element signature="e#311#312#0" expanded="false" />
-            <element signature="e#350#351#0" expanded="false" />
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#472#473#0" expanded="false" />
-            <element signature="e#513#514#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#601#602#0" expanded="false" />
-            <element signature="e#645#646#0" expanded="false" />
-            <element signature="e#681#682#0" expanded="false" />
-            <element signature="e#712#713#0" expanded="false" />
-            <element signature="e#760#761#0" expanded="false" />
-            <element signature="e#800#801#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.24" vertical-offset="0" max-vertical-offset="629">
+        <state vertical-scroll-proportion="0.37181044" vertical-offset="0" max-vertical-offset="823">
           <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-          <folding>
-            <element signature="e#197#198#0" expanded="false" />
-            <element signature="e#231#232#0" expanded="false" />
-            <element signature="e#288#289#0" expanded="false" />
-            <element signature="e#334#335#0" expanded="false" />
-            <element signature="e#373#374#0" expanded="false" />
-            <element signature="e#407#408#0" expanded="false" />
-            <element signature="e#461#462#0" expanded="false" />
-            <element signature="e#507#508#0" expanded="false" />
-            <element signature="e#543#544#0" expanded="false" />
-            <element signature="e#571#572#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.92" vertical-offset="0" max-vertical-offset="459">
-          <caret line="43" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="e#172#173#0" expanded="false" />
-            <element signature="e#203#204#0" expanded="false" />
-            <element signature="e#296#297#0" expanded="false" />
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#375#376#0" expanded="false" />
-            <element signature="e#406#407#0" expanded="false" />
-            <element signature="e#457#458#0" expanded="false" />
-            <element signature="e#497#498#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
-            <element signature="e#577#578#0" expanded="false" />
-            <element signature="e#638#639#0" expanded="false" />
-            <element signature="e#688#689#0" expanded="false" />
-            <element signature="e#730#731#0" expanded="false" />
-            <element signature="e#764#765#0" expanded="false" />
-            <element signature="e#821#822#0" expanded="false" />
-            <element signature="e#867#868#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx6Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.68" vertical-offset="0" max-vertical-offset="612">
-          <caret line="26" column="114" selection-start-line="8" selection-start-column="8" selection-end-line="26" selection-end-column="114" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterThree/src/ChThreeEx5Launcher.java">
+    <entry file="file://$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.08047337" vertical-offset="0" max-vertical-offset="845">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

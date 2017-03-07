@@ -2,6 +2,15 @@ import javax.swing.*;
 import java.util.Scanner;
 
 /**
+ * This statment above is an import statements.
+ */
+
+
+
+
+
+
+/**
  * Created by Matthew on 2/16/2017.
  */
 public class ChSevenEx3_ChargeAccountValidation_Launcher

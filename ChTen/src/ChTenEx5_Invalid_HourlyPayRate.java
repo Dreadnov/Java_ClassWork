@@ -7,4 +7,8 @@ public class ChTenEx5_Invalid_HourlyPayRate extends Exception
     public ChTenEx5_Invalid_HourlyPayRate(){super("Invalid Hourly Pay Rate Amount");}
     //sends the exception message if the catch is called
     public ChTenEx5_Invalid_HourlyPayRate(String msg){super(msg);}
+
+    /**
+     * Above is a grate example of what a basic Custom Exception
+     */
 }
