@@ -4,6 +4,8 @@
 public class ChFourEx2
 {
     double userInput,min,hours,days;//Declared fields
+
+
     public double getUserInput(double v)
     {
         return userInput;

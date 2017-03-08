@@ -21,6 +21,10 @@ public class ChFourEx3Launcher
         //displays the final outcome
 
 
+        public ChFourEx3Launcher()
+        {
+        }
+
         if (avg.getAverage() >= 90.00)
         {
             System.out.printf("A: %,.2f", avg.getAverage());

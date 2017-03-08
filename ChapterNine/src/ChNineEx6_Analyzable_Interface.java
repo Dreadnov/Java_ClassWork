@@ -2,6 +2,9 @@
  * Created by Matthew on 2/24/2017.
  */
 
+/**
+ * Interface
+ */
     public interface ChNineEx6_Analyzable_Interface
     {
         double getAverage();

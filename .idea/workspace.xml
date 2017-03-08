@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a10fa5a-68a9-4a49-a344-ee86e5e779be" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java" afterPath="$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChTen/src/ChTenEx5_Invalid_HourlyPayRate.java" afterPath="$PROJECT_DIR$/ChTen/src/ChTenEx5_Invalid_HourlyPayRate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.form" afterPath="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.form" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.java" afterPath="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.java" />
+      <change type="DELETED" beforePath="C:\Users\Matthew\Desktop\Idea Projects\ChEleven\src\MaintenanceServicesCalculator.form" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Matthew\Desktop\Idea Projects\ChEleven\src\MaintenanceServicesCalculator.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChapterFour/src/ChFourEx2.java" afterPath="$PROJECT_DIR$/ChapterFour/src/ChFourEx2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChapterFour/src/ChFourEx3Launcher.java" afterPath="$PROJECT_DIR$/ChapterFour/src/ChFourEx3Launcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.form" afterPath="$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.java" afterPath="$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChEleven/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ChEleven/.idea/workspace.xml" />
     </list>
     <ignored path="Idea Projects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,15 +33,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ChSevenEx3_ChargeAccountValidation_Launcher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java">
+      <file leaf-file-name="TheaterRevenueCalculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08047337" vertical-offset="0" max-vertical-offset="845">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.24142012" vertical-offset="0" max-vertical-offset="1547">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheaterRevenueCalculator.form" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -57,6 +65,12 @@
         <option value="$PROJECT_DIR$/ChTen/src/ChTenEx4.java" />
         <option value="$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java" />
         <option value="$PROJECT_DIR$/ChTen/src/ChTenEx5_Invalid_HourlyPayRate.java" />
+        <option value="$PROJECT_DIR$/ChapterFour/src/ChFourEx2.java" />
+        <option value="$PROJECT_DIR$/ChapterFour/src/ChFourEx3Launcher.java" />
+        <option value="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.java" />
+        <option value="$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.form" />
+        <option value="$PROJECT_DIR$/ChEleven/src/MaintenanceServicesCalculator.form" />
+        <option value="$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.java" />
       </list>
     </option>
   </component>
@@ -64,8 +78,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="268" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -137,7 +151,79 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ChTen" />
+              <option name="myItemId" value="ChEleven" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Idea Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Idea Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChEleven" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelExpenses" />
+              <option name="myItemType" value="com.intellij.uiDesigner.projectView.FormNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Idea Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Idea Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChEleven" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheaterRevenueCalculator" />
+              <option name="myItemType" value="com.intellij.uiDesigner.projectView.FormNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Idea Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Idea Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChapterFour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Idea Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Idea Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChapterFour" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -158,7 +244,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ChEleven" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -423,15 +509,15 @@
       <workItem from="1488382549548" duration="1878000" />
       <workItem from="1488460927429" duration="851000" />
       <workItem from="1488462372562" duration="2515000" />
-      <workItem from="1488900785032" duration="731000" />
+      <workItem from="1488900785032" duration="2774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6164000" />
+    <option name="totallyTimeSpent" value="8207000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="268" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -800,10 +886,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterFour/src/ChFourEx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="731">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterFour/src/ChFourEx2Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="476">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ChapterSeven/src/ChSevenEx3_ChargeAccountValidation_Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08047337" vertical-offset="0" max-vertical-offset="845">
           <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterFour/src/ChFourEx3Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35029587" vertical-offset="78" max-vertical-offset="952">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChEleven/src/TheaterRevenueCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24142012" vertical-offset="0" max-vertical-offset="1547">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
@@ -56,6 +57,8 @@ public class TheaterRevenueCalculator
 
     private void calcRevenue()
     {
+
+
         final double payment = .20;
 
         double adultTicketP = Double.parseDouble(adultTicketPrice.getText());
@@ -78,5 +81,6 @@ public class TheaterRevenueCalculator
         totalGrossRevenue.setText(String.valueOf(totalGrossRev));
         totalNetRevenue.setText(String.valueOf(totalNetRev));
     }
+
 
 }
